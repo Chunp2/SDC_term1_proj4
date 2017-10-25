@@ -1,4 +1,4 @@
-## Advanced Lane Line Detection
+## Advanced Lane Finding
 
 ### Author: Paul Chun
 ### Date: OCT. 25 2017
