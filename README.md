@@ -97,7 +97,7 @@ def calc_curvature1 ( img, left_fit, right_fit):
     y_eval = np.max(ploty)
 
     # Convert from Pixel to meter
-    ym_per_px = 20/720
+    ym_per_px = 8/720
     xm_per_px = 3.7/700
 
     # Find 2nd order polynomial curve
